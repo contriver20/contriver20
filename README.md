@@ -1,10 +1,9 @@
 # Welcome to Contriver20's Profile
 
 <!-- [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/3JzSZnHC)-->
-[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fabdullaharif.tech%2F)](https://abdullaharif.tech/) 
-[![Gmail Badge](https://img.shields.io/badge/abdullahmeo11-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abdullahmeo11@gmail.com)](mailto:abdullahmeo11@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/abdullaharif98-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullaharif98)
-[![Resume](https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)](https://www.dropbox.com/s/hrlh6qpwrz3iew5/Abdullah_Arif_Resume.pdf?dl=0)
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=contriver20&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fabdullaharif.tech%2F)](https://contriver20.gitlab.io) 
+[![Gmail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abdullahmeo11@gmail.com)](mailto:r3alacc0unt@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/aishayumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishayumar)
 
 ### Tools and Tech
 ![C](https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=c&logoColor=white)
